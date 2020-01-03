@@ -7,7 +7,7 @@ Deep Learning
 Machine Learning Engineer (Advanced)
 ## Coursera
 
-[Andrew Ng's Deep Learning (Machine Translation with GRU Attention, Car Detection with YOLO, Face Recognition with Siamese)] (https://www.coursera.org/account/accomplishments/specialization/JUB9WYW882UB)
+[Andrew Ng's Deep Learning (Machine Translation with GRU Attention, Car Detection with YOLO, Face Recognition with Siamese](https://www.coursera.org/account/accomplishments/specialization/JUB9WYW882UB)  
 [Applied Data Science with Python Specialization (Machine Learning, Text Mining, Scientific Computing, Data Visualization and Networks)](https://www.coursera.org/account/accomplishments/specialization/4US443LTXZ7C)  
 [Python Data Structures, Web Crawler and Databases Specialization](https://www.coursera.org/account/accomplishments/specialization/QTF3P6KUU4KX)  
 [Trading Strategies and Algorithms Specialization](https://www.coursera.org/account/accomplishments/specialization/KBBRCQ85KSXS)
