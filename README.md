@@ -1,5 +1,4 @@
-# My-Certifications
-My Certifications of Non-degree Courses:
+# My Certifications of Non-degree Courses
 ## Baruch College
 [C++ Programming for Financial Engineering with Distinction](https://github.com/tianyu-z/CPP_Programming_for_MFE)
 ## Udacity
